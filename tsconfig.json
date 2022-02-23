@@ -1,13 +1,5 @@
 {
   "compilerOptions": {
-    "plugins": [
-      {
-        "name": "typescript-plugin-css-modules",
-        "options": {
-          "classnameTransform": "asIs"
-        },
-
-    }],
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
 
     /* Projects */
