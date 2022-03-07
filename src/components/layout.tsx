@@ -17,7 +17,6 @@ const Layout = ({ pageTitle, children }: PropsWithChildren<LayoutProps>) => {
       }
     }
   `)
-  console.log(data)
   return (
     <div className={container}>
       <title>{pageTitle} | {data.site.siteMetadata.title}</title>
